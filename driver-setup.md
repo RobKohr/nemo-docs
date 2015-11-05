@@ -13,7 +13,7 @@ is somewhere on your $PATH environment variable.
 
 ## Using Firefox
 
-All that is necessary in order to use Firefox is that you've got an appropriate version of the Firefox browser for the
+All that is necessary in order to use Firefox is that you've got an appropriate version ([Version 35](https://ftp.mozilla.org/pub/firefox/releases/35.0/)) of the Firefox browser for the
 version of selenium-webdriver that `nemo` is currently using. Sometimes, you may need to forego a Firefox update in order
 to ensure that your `nemo` test environment continues to work.
 
